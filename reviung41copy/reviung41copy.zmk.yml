@@ -1,8 +1,0 @@
-file_format: "1"
-id: reviung41copy
-name: REVIUNG41COPY
-type: shield
-url: https://github.com/gtips/reviung/tree/master/reviung41
-requires: [nice_nano]
-features:
-  - keys
